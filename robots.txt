@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://codex-cli-dev.github.io/sitemap.xml
