@@ -20,4 +20,5 @@ Installation is genuinely simple on macOS and only slightly less so on Arm Linux
 
 *This page is an independent write-up by a developer who uses the tool; it is not affiliated with or endorsed by OpenAI, and all trademarks remain the property of their respective owners.*
 
+
 _Last reviewed: 2026-09-22_
